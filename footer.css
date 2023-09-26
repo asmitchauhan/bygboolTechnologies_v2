@@ -1,0 +1,35 @@
+footer{
+    display: flex;
+    width: calc(100% - 100px);
+    height: calc(100vh - 180px);
+    background-color: #000025;
+    padding: 0 50px 0 50px;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+
+h2{
+    color: #e8e8e9;
+    font-size: 24px;
+}
+
+.p-a{
+    color: #e8e8e9;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.p-b{
+    color: #bebec6;
+    font-size: 14px;
+    margin-top: 12px;
+}
+
+.social{
+    margin-top: 30px;
+}
+
+.social a {
+    text-decoration: none;
+    color: #e8e8e9;
+}
